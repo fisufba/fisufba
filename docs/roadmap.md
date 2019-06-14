@@ -57,12 +57,10 @@
 Nesse sprint deve ser realizado retoques no sistema para que este seja utilizável pelos usuários finais. Nesse sprint devem ser implementados funcionalidades que permitam a composição de todos os subsistemas construidos até então em um só sistema (e.g. telas intermediárias).
 
 + Como atendimento, gostaria de buscar paciente (#12)
-+ Como atendimento, gostaria de confirmar meu cadastro (#46)
-+ Como fisioterapeuta, gostaria de confirmar meu cadastro (#47)
 
 Esse sprint certamente irá crescer no futuro.
 
 ## Sprint 8 - Final (Junho 24 - Junho 27)
 
-Esse sprint consiste de apenas três dias e deve ser utilizado para correção de problemas.
+Esse sprint consiste de apenas três dias e deve ser utilizado para retoques finais e deployment.
 

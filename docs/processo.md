@@ -15,8 +15,6 @@ Um sprint terá duração de **uma semana**. Uma reunião ocorrerá entre todos 
 
 O projeto será dividido em **dois times de desenvolvimento**. Um responsável pelo *front-end* e outro pelo *back-end*. Cada time apresentará dois membros. Um dos membros deve liderar e garantir que a sua porção do projeto está progredindo. Há ainda um quinto membro que deve liderar o projeto como um todo e garantir que ambas as partes estão progredindo.
 
-O projeto fará uso de uma espécie de **desenvolvimento orientado a testes**. Toda feature deve ter testes unitários correspondentes, ou a feature não será considerada concluída.
-
 O projeto fará uso de um sistema de controle de versão. Tal sistema de versionamento será organizado segundo o **modelo de [Git Flow](https://br.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)**. Nesse modelo há um ramo master, onde qualquer mudança será automaticamente integrada ao servidor de produção, e portanto só deverá conter código funcional. Há um ramo develop, onde todo o código concluído relacionado a um sprint deve estar. Ao final de um sprint, todo o código na develop será mesclado ao código na master. Há ainda um ramo para cada feature sendo desenvolvida, de tal maneira que elas possam ser desenvolvidas independentemente. Quando uma feature estiver concluída (com implementação e testes unitários funcionais), ela deve ser mesclada a develop.
 
 

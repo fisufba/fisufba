@@ -7,11 +7,12 @@ O projeto consiste em modernizar os formulário da equipe da Clínica Escola de 
 ## Tecnologias
 
 * HTML5 / CSS3
-* Javascript
-* Python
-* Django
+* Typescript
+* Angular
+* Python 3
+* Flask
+* Peewee ORM
 * PostgreSQL
-* TravisCI
 * Docker
 * Sentry
 
